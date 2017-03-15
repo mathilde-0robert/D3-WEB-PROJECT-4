@@ -1,0 +1,216 @@
+header{
+  padding:30px;
+  min height:60vh;
+  max-width : 2500px;
+  background: #FFE85E;
+}
+
+#color{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+text-align: center;
+text transform: uppercase;
+font-size: 2em
+}
+
+#color li {
+  height: 150px;
+  width: 150px;
+  border-radius:16px;
+  color: #fff;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width:150px;
+  padding:12px;
+  margin: 5px;
+}
+  #color-1 {
+    background-color: #FFE85E
+  }
+
+  #color-2 {
+    background-color: #CC986B
+  }
+
+
+  #section01 {
+    margin: 0 auto;
+    max-width : 1000px;
+  }
+
+  #section01 img {
+    width: 100%;
+  }
+
+#section02 {
+
+    background: #CC986B;
+}
+
+#section02 .links {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer{
+  background: #CC986B;
+  min-height: 10vh;
+}
+
+p {
+  min height:70vh;
+  padding : 80px;
+  max-width : 9000px;
+}
+
+section {
+  padding : 22px;
+  max-width : 2000px;
+}
+
+ol{
+list-style-type: none;
+display: flex;
+flex-wrap: wrap;
+}
+
+li{
+border: 3px solid #263238;
+width:200px;
+padding:12px;
+margin: 4px;
+text-align: center;
+  border-radius:16px;
+}
+
+#section03 video{
+width: 100%;
+
+}
+#section06{
+  position: absolute;
+  top: 600px;
+  left: 590px;
+}
+
+#section07{
+  position: absolute;
+  top: 600px;
+  left: 100px;
+}
+/*
+
+section {
+  padding : 22px;
+  max-width : 2000px;
+}
+
+ol{
+list-style-type: none;
+display: flex;
+flex-wrap: wrap;
+}
+
+li{
+border: 2px solid #263238;
+width:200px;
+padding:12px;
+margin: 4px;
+text-align: center;
+}
+
+li img{
+  width: 100%;
+}
+
+
+
+#section02{
+position: absolute;
+top: 1580px;
+left: 50px;
+}
+
+#section03{
+position: absolute;
+top: 1580px;
+left: 417px;
+}
+
+#section04{
+position: absolute;
+top: 1580px;
+left: 780px;
+}
+
+#section05{
+  position: absolute;
+  top: 500px;
+  left: 250px;
+}
+
+#section08{
+  position: absolute;
+  top: 580px;
+  left: 80px;
+  background: #FFE85E;
+}
+
+video{
+  width: 500px;
+  height: ;
+    left: 10px;
+  padding : 80px;
+  align-self : center;
+}
+
+h1 {
+  padding:4px;
+}
+
+
+body {
+color: #654;
+  margin-top: 400;
+}
+
+p {
+  min height:70vh;
+  padding : 80px;
+  max-width : 9000px;
+}
+
+
+
+video{
+  display: block;
+}
+
+
+#section09{
+  position: absolute;
+  top: 600px;
+  left: 850px;
+}
+
+#section10{
+  position: absolute;
+  top: 600px;
+  left: 90px;
+}
+#section11{
+  position: absolute;
+  top: 800px;
+  left: 850px;
+}
+
+#section12{
+  position: absolute;
+  top: 800px;
+  left: 90px;
+}
+
+*/
