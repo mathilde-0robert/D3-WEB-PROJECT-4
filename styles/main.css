@@ -75,6 +75,8 @@ ol{
 list-style-type: none;
 display: flex;
 flex-wrap: wrap;
+  padding : 40px;
+  justify-content: space-around;
 }
 
 li{
